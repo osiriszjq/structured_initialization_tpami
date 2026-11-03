@@ -1,0 +1,9 @@
+# Install in an isolated GPU environment; choose compatible torch/vision builds.
+torch>=2.6
+torchvision>=0.21
+numpy
+PyYAML
+Pillow
+scipy
+huggingface_hub>=0.17.0
+safetensors>=0.2

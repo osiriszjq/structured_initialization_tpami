@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite Structured Initialization for Vision Transformers (NeurIPS 2025)."
+title: "Structured Initialization for Vision Transformers"
+type: software
+authors:
+  - family-names: Zheng
+    given-names: Jianqiao
+  - family-names: Li
+    given-names: Xueqian
+  - family-names: Saratchandran
+    given-names: Hemanth
+  - family-names: Lucey
+    given-names: Simon
+license: Apache-2.0
+references:
+  - type: article
+    title: "Structured Initialization for Vision Transformers"
+    authors:
+      - family-names: Zheng
+        given-names: Jianqiao
+      - family-names: Li
+        given-names: Xueqian
+      - family-names: Saratchandran
+        given-names: Hemanth
+      - family-names: Lucey
+        given-names: Simon
+    year: 2025
+    url: "https://arxiv.org/abs/2505.19985"
